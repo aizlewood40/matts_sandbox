@@ -1,4 +1,5 @@
 import { NextPage, NextPageContext } from "next";
+import * as React from "react";
 import Head from "next/head";
 
 // Components
